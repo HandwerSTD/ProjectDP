@@ -28,6 +28,8 @@
 		9F36606821F9B53900D385FD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		9F36606B21F9B74800D385FD /* 1.cpp */ = {isa = PBXFileReference; explicitFileType = sourcecode.cpp.cpp; path = 1.cpp; sourceTree = "<group>"; };
 		9F36606E21FB3D4900D385FD /* 3.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 3.cpp; sourceTree = "<group>"; };
+		9F3890E622178CA900DC5113 /* 35.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 35.cpp; sourceTree = "<group>"; };
+		9F3890E72218074400DC5113 /* 16.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 16.cpp; sourceTree = "<group>"; };
 		9F47188021FEB66700866FD3 /* 4.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 4.cpp; sourceTree = "<group>"; };
 		9F47188121FF165900866FD3 /* 26.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 26.cpp; sourceTree = "<group>"; };
 		9F47188221FF205D00866FD3 /* 8.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 8.cpp; sourceTree = "<group>"; };
@@ -35,6 +37,7 @@
 		9F54011022005F9E0009932D /* 28.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 28.cpp; sourceTree = "<group>"; };
 		9F54011122005FDC0009932D /* 27.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 27.cpp; sourceTree = "<group>"; };
 		9F540112220075480009932D /* 29.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 29.cpp; sourceTree = "<group>"; };
+		9F86F807222137580044C170 /* 5.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 5.cpp; sourceTree = "<group>"; };
 		9F9AD68821FBE1A300735050 /* 2.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 2.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -88,6 +91,9 @@
 				9F54011122005FDC0009932D /* 27.cpp */,
 				9F54011022005F9E0009932D /* 28.cpp */,
 				9F540112220075480009932D /* 29.cpp */,
+				9F3890E622178CA900DC5113 /* 35.cpp */,
+				9F3890E72218074400DC5113 /* 16.cpp */,
+				9F86F807222137580044C170 /* 5.cpp */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
