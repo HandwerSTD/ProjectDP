@@ -14,8 +14,15 @@
 
 #include <iostream>
 
-int main(int argc, const char * argv[]) {
-    
+#define FILE_IN(__fname) freopen(__fname, "r", stdin)
+#define FILE_OUT(__fname) freopen(__fname, "w", stdout)
+#define IMPROVE_IO() std::ios::sync_with_stdio(false)
+
+using std::cin;
+using std::cout;
+using std::endl;
+
+int main() {
     return 0;
 }
 
