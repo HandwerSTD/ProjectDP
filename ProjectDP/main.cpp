@@ -13,6 +13,9 @@
  */
 
 #include <iostream>
+#include <cstring>
+#include <cstdio>
+#include <string>
 
 #define FILE_IN(__fname) freopen(__fname, "r", stdin)
 #define FILE_OUT(__fname) freopen(__fname, "w", stdout)

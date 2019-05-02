@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9F0E8E1822797FE100CF5AFC /* 32.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = 32.cpp; sourceTree = "<group>"; };
 		9F36605E21F9B3EB00D385FD /* ProjectDP */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = ProjectDP; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F36606121F9B3EB00D385FD /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		9F36606821F9B53900D385FD /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
@@ -102,6 +103,7 @@
 				9FF2E6922233FD76009166C7 /* 33.cpp */,
 				9FF80209226B5538009E667E /* 22.cpp */,
 				9F7A36BB2279756F00294EEE /* 34.cpp */,
+				9F0E8E1822797FE100CF5AFC /* 32.cpp */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
