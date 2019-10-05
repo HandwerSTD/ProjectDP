@@ -1,16 +1,10 @@
 //
-//  main.cpp
+//  36.cpp
 //  ProjectDP
 //
-//  Created by HandwerSTD on 2019/1/24.
+//  Created by HandwerSTD on 2019/10/5.
 //  Copyright © 2019 Handwer STD. All rights reserved.
 //
-
-/*
- *
- * A file for coding & debugging
- *
- */
 
 #include <algorithm>
 #include <iostream>
